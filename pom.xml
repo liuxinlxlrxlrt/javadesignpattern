@@ -9,6 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>singleton_mode</module>
+        <module>factory_model</module>
+        <module>builder_mode</module>
     </modules>
 
     <packaging>pom</packaging>
