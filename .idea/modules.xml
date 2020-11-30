@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/builder_mode/builder_mode.iml" filepath="$PROJECT_DIR$/builder_mode/builder_mode.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory_model/factory_model.iml" filepath="$PROJECT_DIR$/factory_model/factory_model.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javadesignpattern.iml" filepath="$PROJECT_DIR$/.idea/javadesignpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object_oriented_design_principles/object_oriented_design_principles.iml" filepath="$PROJECT_DIR$/object_oriented_design_principles/object_oriented_design_principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototype_mode/prototype_mode.iml" filepath="$PROJECT_DIR$/prototype_mode/prototype_mode.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton_mode/singleton_mode.iml" filepath="$PROJECT_DIR$/singleton_mode/singleton_mode.iml" />
     </modules>
   </component>
