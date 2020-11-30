@@ -11,6 +11,9 @@
         <module>singleton_mode</module>
         <module>factory_model</module>
         <module>builder_mode</module>
+        <module>prototype_mode</module>
+        <module>designpattern_lsp</module>
+        <module>object_oriented_design_principles</module>
     </modules>
 
     <packaging>pom</packaging>

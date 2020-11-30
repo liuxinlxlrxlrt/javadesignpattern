@@ -8,13 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="builder_mode" />
         <module name="factory_model" />
+        <module name="object_oriented_design_principles" />
+        <module name="prototype_mode" />
         <module name="singleton_mode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="builder_mode" target="1.7" />
+      <module name="designpattern_lsp" target="1.5" />
       <module name="factory_model" target="1.7" />
       <module name="javadesignpattern" target="1.5" />
+      <module name="object_oriented_design_principles" target="1.7" />
+      <module name="prototype_mode" target="1.7" />
       <module name="singleton_mode" target="1.7" />
     </bytecodeTargetLevel>
   </component>

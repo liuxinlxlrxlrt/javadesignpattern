@@ -7,14 +7,20 @@ public class LazySingletonTest {
 //        LazySingleton singleton02 =LazySingleton.getInstance();
 //        System.out.println(singleton01==singleton02);
 
-        new Thread(()->{
-            LazySingleton singleton = LazySingleton.getInstance();
-            System.out.println(singleton);
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                LazySingleton singleton = LazySingleton.getInstance();
+                System.out.println(singleton);
+            }
         }).start();
 
-        new Thread(()->{
-            LazySingleton singleton = LazySingleton.getInstance();
-            System.out.println(singleton);
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                LazySingleton singleton = LazySingleton.getInstance();
+                System.out.println(singleton);
+            }
         }).start();
     }
 }
