@@ -1,63 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3acd2719-7922-4dde-894e-55a52a44d451" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/builder_mode/builder_mode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder_mode/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder_mode/src/main/java/javadesignpattern/bulider/BuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder_mode/src/main/java/javadesignpattern/v2/ProductTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_model/factory_model.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/AbstractFactory/AbstractFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/FactoryMethod/AbstractFactoryMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/SimpleFactory/SimpleFactoryMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/enumeration/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/innerclasssingleton/serializeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton_mode/singleton_mode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/singleton_mode/singleton_mode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/hungrysingeton/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/hungrysingeton/HungrySingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/innerclasssingleton/InnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/innerclasssingleton/InnerClassSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/innerclasssingleton/InnerClassSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/innerclasssingleton/InnerClassSingletonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton_mode/target/classes/com/tuling/hungrysingeton/HungrySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/singleton_mode/target/classes/com/tuling/hungrysingeton/HungrySingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton_mode/target/classes/com/tuling/innerclasssingleton/InnerClassSingleton$InnerClassHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/singleton_mode/target/classes/com/tuling/innerclasssingleton/InnerClassSingleton$InnerClassHolder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton_mode/target/classes/com/tuling/innerclasssingleton/InnerClassSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/singleton_mode/target/classes/com/tuling/innerclasssingleton/InnerClassSingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton_mode/target/classes/com/tuling/innerclasssingleton/InnerClassSingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/singleton_mode/target/classes/com/tuling/innerclasssingleton/InnerClassSingletonTest.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/singleton_mode/target/" />
-    <ignored path="$PROJECT_DIR$/factory_model/target/" />
-    <ignored path="$PROJECT_DIR$/builder_mode/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/builder_mode/src/main/java/javadesignpattern/v2/ProductTest2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/builder_mode/src/main/java/javadesignpattern/bulider/BuilderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" selection-start-line="2" selection-end-line="225" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,40 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/singleton_mode/pom.xml" />
-        <option value="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/lazysingeton/LazySingletonTest.java" />
-        <option value="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/lazysingeton/Demo.java" />
-        <option value="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/lazysingeton/LazySingleton.java" />
-        <option value="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/hungrysingeton/HungrySingletonTest.java" />
-        <option value="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/hungrysingeton/HungrySingleton.java" />
-        <option value="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/innerclasssingleton/InnerClassSingletonTest.java" />
-        <option value="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/innerclasssingleton/InnerClassSingleton.java" />
-        <option value="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/innerclasssingleton/serializeTest.java" />
-        <option value="$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/enumeration/EnumSingleton.java" />
-        <option value="$PROJECT_DIR$/factory_model/pom.xml" />
-        <option value="$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/FactoryMethod.java" />
-        <option value="$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/AbstractFactoryMethod.java" />
-        <option value="$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/SimpleFactoryMethod.java" />
-        <option value="$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/SimpleFactoryModel/SimpleFactoryMethod.java" />
-        <option value="$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/AbstractFactoryModel/AbstractFactoryMethod.java" />
-        <option value="$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/SimpleFactory/SimpleFactoryMethod.java" />
-        <option value="$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/AbstractFactory/AbstractFactoryTest.java" />
-        <option value="$PROJECT_DIR$/builder_mode/pom.xml" />
-        <option value="$PROJECT_DIR$/builder_mode/src/main/java/javadesignpattern/bulider/Product.java" />
-        <option value="$PROJECT_DIR$/builder_mode/src/main/java/javadesignpattern/bulider/BuilderTest.java" />
-        <option value="$PROJECT_DIR$/builder_mode/src/main/java/javadesignpattern/v2/ProductTest2.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -112,96 +36,10 @@
     <option name="width" value="1419" />
     <option name="height" value="870" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="javadesignpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javadesignpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder_mode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javadesignpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder_mode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javadesignpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder_mode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javadesignpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder_mode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javadesignpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder_mode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javadesignpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder_mode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="bulider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javadesignpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder_mode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="bulider" type="462c0819:PsiDirectoryNode" />
-              <item name="BuilderTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="javadesignpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder_mode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javadesignpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javadesignpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="builder_mode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1kzkwtevcHeLDNfwIoHBol9No4C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -219,18 +57,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\javaCode\21_ProjectStorageFolder\TestNG\javadesignpattern\factory_model\src\main\java\javadesignpattern\factorymodel" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.ProductTest2">
     <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -308,6 +134,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -331,220 +158,8 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="24931000" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3031528" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21847247" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3882979" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.60035527" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/designpattern.java" />
-    <entry file="file://$PROJECT_DIR$/singleton_mode/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/hungrysingeton/HungrySingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/hungrysingeton/HungrySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/innerclasssingleton/InnerClassSingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="4" selection-start-line="4" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_202/src.zip!/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="138" column="23" lean-forward="true" selection-start-line="138" selection-start-column="23" selection-end-line="138" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testSerializable">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/innerclasssingleton/serializeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" selection-start-line="7" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/innerclasssingleton/InnerClassSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" selection-start-line="3" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/enumeration/EnumSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/lazysingeton/LazySingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/lazysingeton/LazySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleton_mode/src/main/java/com/tuling/lazysingeton/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory_model/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/SimpleFactory/SimpleFactoryMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/builder_mode/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/AbstractFactory/AbstractFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="90" />
-          <folding>
-            <element signature="e#1658#1659#0" expanded="true" />
-            <element signature="e#1703#1704#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory_model/src/main/java/javadesignpattern/factorymodel/FactoryMethod/AbstractFactoryMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/builder_mode/src/main/java/javadesignpattern/bulider/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="83" column="1" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="83" selection-end-column="1" />
-          <folding>
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#760#761#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-            <element signature="e#1034#1035#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1100#1101#0" expanded="true" />
-            <element signature="e#1128#1129#0" expanded="true" />
-            <element signature="e#1170#1171#0" expanded="true" />
-            <element signature="e#1204#1205#0" expanded="true" />
-            <element signature="e#1236#1237#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="e#1306#1307#0" expanded="true" />
-            <element signature="e#1340#1341#0" expanded="true" />
-            <element signature="e#1372#1373#0" expanded="true" />
-            <element signature="e#1400#1401#0" expanded="true" />
-            <element signature="e#1442#1443#0" expanded="true" />
-            <element signature="e#1476#1477#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/builder_mode/src/main/java/javadesignpattern/v2/ProductTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/builder_mode/src/main/java/javadesignpattern/bulider/BuilderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="225" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
