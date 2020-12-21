@@ -13,6 +13,7 @@ public class ISPTest {
         //获取字节码文件对象,第二种方式
         StuSroceList inputModule = new StuSroceList();
         Class sroceListClass2 = inputModule.getClass();
+
         System.out.println(sroceListClass2);
         //结果：class javadesignpattern.isp.StuSroceList
 
